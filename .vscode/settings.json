@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stm32f1xx_hal.h": "c",
+        "string.h": "c",
+        "bsp_asda_b2.h": "c",
+        "bsp_usart.h": "c",
+        "bsp_usartx.h": "c",
+        "laser.h": "c",
+        "stm32f1xx_hal_uart.h": "c",
+        "pid.h": "c",
+        "msg.h": "c"
+    }
+}
